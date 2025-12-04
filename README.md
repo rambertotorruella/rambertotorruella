@@ -1,31 +1,58 @@
-## Hi, I’m Ramberto Torruella Jr.
+# Ex-Navy CIO (SES) | Tech Due Diligence for PE/VC | Fractional CTO/CISO | Cloud & Cybersecurity
 
-I’m a builder-centric CTO and former Navy CIO (SES) who focuses on secure distributed systems, cloud modernization, and data-driven platforms. I’ve led engineering organizations from submarines to streaming radio, and I care most about architectures that are both operationally credible and humane for the people who have to run them.
+I’m Ramberto – an ex-Navy CIO (SES), nonprofit CTO, and CISSP focused on:
 
-### What I work on
+- **Technical due diligence for PE/VC and strategic investors**
+- **Cloud and cybersecurity architecture** for secure, large-scale platforms
+- **Fractional CTO/CISO support** for organizations in transition or under pressure
 
-- Secure, cloud-native service architectures (Azure/AWS, zero trust, DevSecOps)
-- Cyber and technology strategy in high-consequence environments
-- Observability, incident reduction, and system reliability at scale
-- Data analysis, modeling, and simulation (often in R) to support decisions and policy
-- Cyber and technology strategy for defense, national security, and nonprofits
-- Teaching and writing at the intersection of technology, operations, and policy
+I’ve led a 350‑engineer global organization serving 90k+ users across the Department of Defense, and later transformed a major media nonprofit’s broadcast and digital stack into a cloud‑ready, data‑driven platform. My work centers on turning complex, fragile systems into reliable, observable architectures – and turning technical detail into clear risk and investment decisions.
 
-### What you’ll find here
+---
 
-I use this GitHub as a lab and teaching space:
+## What you’ll find here
 
-- Small, well-documented examples of architectures and patterns I’ve found useful
-- R projects for modeling complex systems, cyber risk, and operational tradeoffs
-- Teaching materials and artifacts from talks on cyber, technology, and strategy
+This GitHub is a **working bench**, not a polished product portfolio. Expect:
 
-### Selected public repos
+- **Architecture & due diligence artifacts**  
+  Lightweight examples of how I analyze systems: reference architectures, risk maps, and scoring frameworks for technical and cyber due diligence.
 
-- **Modern Secure Service Blueprint** – reference architecture for a small cloud service designed around security, observability, and operability.
-- **(coming soon) `complex-systems-in-r`** – small R simulations and models exploring cyber risk, operations, and decision-making under constraints.
-- **(coming soon) `secure-service-blueprint`** – a reference architecture for a small, secure, observable service, focused on structure and tradeoffs rather than production code.
-- **(coming soon) `cyber-strategy-teaching-kit`** – slides, notes, and examples I use when teaching cyber and technology strategy.
-- (future) **Cyber / Tech Strategy Teaching Kit** – slide decks, notes, and examples I use when teaching cyber and technology strategy.
-- (future) **Complex Systems / Simulation Experiments** – small models and notebooks exploring cyber risk, operations, and decision-making under constraints.
+- **Cloud & security patterns**  
+  Sample configurations, IaC snippets, and patterns for secure, observable systems on **Azure** and **AWS** (with an emphasis on zero trust and defense‑grade reliability).
 
-I’m gradually making more of my teaching materials, models, and architectural experiments public here.
+- **Applied analytics / ML experiments (R & Python)**  
+  Small projects using **R** and **Python** to explore predictive analytics, risk scoring, and system behavior modeling – often tied to real-world technology and cyber decision problems.
+
+Over time, I’ll favor **small, pragmatic examples** over large monolith repos – the goal is to show how I think, not ship full products here.
+
+---
+
+## Focus areas
+
+- Technical and cyber **due diligence** for PE/VC and M&A
+- **Cloud architecture** (Azure, AWS) and secure distributed systems
+- **Zero trust**, DevSecOps, observability, and incident reduction
+- C4I / C5I and cyber operations in high‑threat, resource‑constrained environments
+- Data‑driven decision support: metrics, dashboards, and risk scoring
+
+---
+
+## How I work
+
+My default approach is:
+
+1. **Clarify the decision** – What’s being decided (invest, modernize, retire, re‑platform), and who owns the risk?
+2. **Map the system** – Architecture, data flows, dependencies, and failure modes.
+3. **Quantify what matters** – Reliability, security exposure, scalability, and cost, using practical metrics and simple models.
+4. **Shape options** – Clear trade‑offs and sequenced roadmaps that teams can actually execute.
+5. **Enable the team** – Leave behind patterns, guardrails, and habits so the organization isn’t consultant‑dependent.
+
+---
+
+## Contact
+
+For advisory work related to **technical due diligence, cloud and cybersecurity architecture, or fractional CTO/CISO support**, the best place to reach me is:
+
+- **LinkedIn:** [linkedin.com/in/rambertotorruella](https://www.linkedin.com/in/rambertotorruella)
+
+I’m especially interested in **PE/VC‑backed platforms**, **defense and national security technology**, and **mission‑driven nonprofits** that need high‑end expertise in a constrained environment.
