@@ -1,6 +1,6 @@
-# Ex-Navy CIO (SES) | Tech Due Diligence for PE/VC | Fractional CTO/CISO | Cloud & Cybersecurity
+# Ex-Navy Officer, Former SAP CIO (SES) | Tech Due Diligence for PE/VC | Fractional CTO/CISO | Cloud & Cybersecurity
 
-I’m Ramberto – an ex-Navy CIO (SES), nonprofit CTO, and CISSP focused on:
+I’m Ramberto – an ex-Captain (O6) , former Navy SAP CIO (SES), and nonprofit CTO focused on:
 
 - **Technical due diligence for PE/VC and strategic investors**
 - **Cloud and cybersecurity architecture** for secure, large-scale platforms
